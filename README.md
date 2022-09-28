@@ -271,10 +271,10 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 🗿 
-1b | Link to `commit #1 from Github.com` |
-1c | Link to markdown tables docs |
-1d | What does `log` do? |
-2a | 2nd Favorite emoji |
+1b | [Link to commit #1 from Github.com](https://github.com/Douglasdeutsch/learn-git-milestones/commit/122b68c49c541cc5b50bfc5167e45c5802b14c22) |
+1c | [Link to markdown tables docs](https://www.makeuseof.com/tag/create-markdown-table/) |
+1d | What does `log` do? | `log` prints all of the aptions you can use the log code for, most of which have to do with keeping track of uage patterns and activities inside an operating system
+2a | 2nd Favorite emoji | 🤝
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
