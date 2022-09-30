@@ -276,7 +276,7 @@ Item # | Description | Completed
 1d | What does `log` do? | `log` prints all of the options you can use the log code for, most of which have to do with keeping track of uage patterns and activities inside an operating system
 2a | 2nd Favorite emoji | 🤝
 2b | [Link to `commit #2 from Github Desktop`](https://github.com/Douglasdeutsch/learn-git-milestones/blob/main/README.md) |
-2c | Full path to your working directory |
+2c | Full path to your working directory | C:\Users\socce\Sites\critical-web-design\learn-git-milestones\README.md
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
