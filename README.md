@@ -275,12 +275,12 @@ Item # | Description | Completed
 1c | [Link to markdown tables docs](https://www.makeuseof.com/tag/create-markdown-table/) |
 1d | What does `log` do? | `log` prints all of the options you can use the log code for, most of which have to do with keeping track of uage patterns and activities inside an operating system
 2a | 2nd Favorite emoji | 🤝
-2b | [Link to `commit #2 from Github Desktop`](https://github.com/Douglasdeutsch/learn-git-milestones/blob/main/README.md) |
+2b | [Link to `commit #2 from Github Desktop`](https://github.com/Douglasdeutsch/learn-git-milestones/commit/64a924d857495bbc9a19815ea4c1dfb2f345d672) |
 2c | Full path to your working directory | C:\Users\socce\Sites\critical-web-design\learn-git-milestones\README.md
-2d | [Link to `commit #3 from CLI`](https://github.com/Douglasdeutsch/learn-git-milestones/blob/main/README.md) |
+2d | [Link to `commit #3 from CLI`](https://github.com/Douglasdeutsch/learn-git-milestones/commit/300206f2ae6becf6b84b82bcdfdf814c6833f8fa) |
 2e | 3rd Favorite emoji |😎
-2f | [Link to `commit #4 from Atom`](a65679da7d3083f16ab108285586528e32332975)|
-3a | [Link to `my-awesome-project` github.com repo page](C:\Users\socce\Sites\critical-web-design\my-awesome-project) |
+2f | [Link to `commit #4 from Atom`](https://github.com/Douglasdeutsch/learn-git-milestones/commit/64578a6d24c483569e880e075630e24a8da4230a)|
+3a | [Link to `my-awesome-project` github.com repo page](https://github.com/Douglasdeutsch/my-awesome-project/commit/acfc69215018b72324903bc8bc79894218900024) |
 4a | [Link to `my-awesome-project` github.io "project site"](https://douglasdeutsch.github.io/my-awesome-project/) |
 ... | ... | Total: 0/12
 
