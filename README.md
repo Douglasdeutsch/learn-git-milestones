@@ -277,9 +277,9 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 🤝
 2b | [Link to `commit #2 from Github Desktop`](https://github.com/Douglasdeutsch/learn-git-milestones/blob/main/README.md) |
 2c | Full path to your working directory | C:\Users\socce\Sites\critical-web-design\learn-git-milestones\README.md
-2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
-2f | Link to `commit #4 from Atom` |
+2d | [Link to `commit #3 from CLI`](https://github.com/Douglasdeutsch/learn-git-milestones/blob/main/README.md) |
+2e | 3rd Favorite emoji |😎
+2f | [Link to `commit #4 from Atom`](https://github.com/Douglasdeutsch/learn-git-milestones/edit/main/README.md)|
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
